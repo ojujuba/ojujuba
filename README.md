@@ -1,4 +1,5 @@
 # Hi there 👋
+## I'm Jujuba
 ## I’m currently learning HTML and CSS
 
 - I’m looking for help with JavaScript
